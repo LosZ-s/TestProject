@@ -23,6 +23,7 @@
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
 //nani maska se la come
+// ya le pique
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
